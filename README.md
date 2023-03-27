@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently studying at INATEL - Instituto Nacional de Telecomunicações
 - 🌱 Learning: Flutter, Java and Dart
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/matheusAFONSECA">
