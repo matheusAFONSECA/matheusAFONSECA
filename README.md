@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dracula/2.5.1/dracula.min.css">
+<link rel="stylesheet" type="text/css" href="dracula.css">
 
 ## Seja bem vindo!!!
 ### Olá!! Eu sou o Matheus Fonseca 👋
