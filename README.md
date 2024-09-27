@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="dracula.css">
 
+![](https://komarev.com/ghpvc/?username=matheusAFONSECA&color=006bed)
+
 ## Seja bem vindo!!!
 ### Olá!! Eu sou o Matheus Fonseca 👋
 
