@@ -38,11 +38,14 @@
 ### Libraries
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas"/></code>
+<code><img height="32" src="https://scipy.org/images/logo.svg" alt="scipy"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest"/></code>
 
 ### Machine Learning and Data Science
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda"/></code>
@@ -52,41 +55,60 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css"/></code>
 
 ### IDEs and Editors
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs-code"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vs-code"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android-studio"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino"/></code>
 
 ### Cloud and DevOps
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="kubernetes"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github-actions"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket"/></code>
 
 ### Databases
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" alt="cassandra"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase"/></code>
 
 ### Frameworks
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit"/></code>
+<code><img height="32" src="https://google.github.io/mesop/assets/logo.png" alt="mesop"/></code>
 
 ### API Development and Testing
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="json"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="yaml"/></code>
 
 ### Typesetting and Documentation
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence"/></code>
 
 ### Task Management
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello"/></code>
 
-## Operating Systems
-<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"/></code> Linux (Ubuntu)
-<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows"/></code> Windows
+### Operating Systems
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="linux-ubuntu"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi"/></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows"/></code>
+
+### CLIs
+
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash"/></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="powershell"/></code>
 
 ---
 
@@ -97,6 +119,9 @@ Feel free to reach out to me through the following channels:
 <div> 
   <a href="mailto:matheusfonsecaafonso@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="mailto:henrique.matheus@gec.inatel.br" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
   <a href="https://www.linkedin.com/in/matheus-fonseca-afonso/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
