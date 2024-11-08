@@ -73,6 +73,8 @@
 
 ### API Development and Testing
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman"/></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask"/></code>
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi"/></code>
 
 ### Typesetting and Documentation
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex"/></code>
@@ -81,6 +83,10 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" alt="trello"/></code>
+
+## Operating Systems
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"/></code> Linux (Ubuntu)
+<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows"/></code> Windows
 
 ---
 
