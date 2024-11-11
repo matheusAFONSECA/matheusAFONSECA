@@ -6,7 +6,7 @@
 ### I'm Matheus Fonseca 👋
 
 - 🔭 I’m currently studying at INATEL - Instituto Nacional de Telecomunicações
-- 🌱 Learning: Flutter, Java and Dart
+- 🌱 Learning: Machine learning with pythona and docker
 
 <div align="center">
   <a href="https://github.com/matheusAFONSECA">
