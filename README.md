@@ -6,7 +6,7 @@
 ### I'm Matheus Fonseca 👋
 
 - 🔭 I’m currently studying at INATEL - Instituto Nacional de Telecomunicações
-- 🌱 Learning: Machine learning with pythona and docker
+- 🌱 Learning: Machine learning with python and docker
 
 <div align="center">
   <a href="https://github.com/matheusAFONSECA">
