@@ -76,6 +76,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" alt="cassandra"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis"/></code>
 
 ### Frameworks
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter"/></code>
