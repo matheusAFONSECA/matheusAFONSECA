@@ -82,6 +82,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit"/></code>
 <code><img height="32" src="https://google.github.io/mesop/assets/logo.png" alt="mesop"/></code>
+<code><img height="32" src="https://flet.dev/img/logo.svg" alt="flet"/></code>
 
 ### API Development and Testing
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman"/></code>
