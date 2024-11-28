@@ -34,6 +34,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original-wordmark.svg" alt="julia"/></code>
 
 ### Libraries
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"/></code>
@@ -70,6 +71,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github-actions"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" alt="putty"/></code>
 
 ### Databases
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"/></code>
