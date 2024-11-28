@@ -40,6 +40,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas"/></code>
 <code><img height="32" src="https://scipy.org/images/logo.svg" alt="scipy"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="plotly"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest"/></code>
 
