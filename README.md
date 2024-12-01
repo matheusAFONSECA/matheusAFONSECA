@@ -98,6 +98,7 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="yaml"/></code>
 <code><img height="32" src="https://avatars.githubusercontent.com/u/185921483?v=4" alt="mosquitto"/></code>
 <code><img height="32" src="https://mqtt.org/assets/downloads/mqtt-ver-neg.png" alt="mqtt"/></code>
+<code><img height="32" src="https://nodered.org/about/resources/media/node-red-icon-2.svg" alt="node-red"/></code>
 
 ### Typesetting and Documentation
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex"/></code>
