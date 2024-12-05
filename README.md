@@ -88,6 +88,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit"/></code>
 <code><img height="32" src="https://flet.dev/img/logo.svg" alt="flet"/></code>
+<code><img height="32" src="https://cdn.prod.website-files.com/6272e11601c9e296becde07b/665d3e23703fff50536fcae8_blynk-logo-green.svg" alt="blynk"/></code>
 
 ### API Development and Testing
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman"/></code>
