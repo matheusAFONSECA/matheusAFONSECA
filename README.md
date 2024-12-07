@@ -3,10 +3,19 @@
 ![](https://komarev.com/ghpvc/?username=matheusAFONSECA&color=006bed)
 
 ## Wellcome!!!
-### I'm Matheus Fonseca 👋
+
+<br>
+
+<div align="center">
+    <!-- Animated Typing SVG -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E5DF7&center=true&width=435&lines=I'm+Matheus+Fonseca" alt="Typing SVG" /></a>
+    </a>
+</div>
+
+<br>
 
 - 🔭 I’m currently studying at INATEL - Instituto Nacional de Telecomunicações
-- 🌱 Learning: Machine learning with python and docker
+- 🌱 Learning: Machine learning with python and docker, docker compose e docker swarm
 
 <div align="center">
   <a href="https://github.com/matheusAFONSECA">
