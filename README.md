@@ -132,6 +132,7 @@
 
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" alt="powershell"/></code>
+<code><img height="32" src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png" alt="windows-cmd"/></code>
 
 ---
 
