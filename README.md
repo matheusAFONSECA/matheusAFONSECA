@@ -53,13 +53,13 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" alt="plotly"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest"/></code>
+<code><img height="32" src="https://joblib.readthedocs.io/en/stable/_static/joblib_logo.svg" alt="joblib"/></code>
 
 ### Machine Learning and Data Science
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda"/></code>
 
 ### Web Development
