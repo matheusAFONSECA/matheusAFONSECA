@@ -101,6 +101,8 @@
 
 ### API Development and Testing
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman"/></code>
+<code><img height="32" src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" alt="cypress"/></code>
+<code><img height="32" src="https://img.icons8.com/?size=160&id=bp24DwGXJDyT&format=png" alt="Jest"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel"/></code>
