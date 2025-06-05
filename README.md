@@ -63,7 +63,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter"/></code>
 <code><img height="32" src="https://numba.pydata.org/_static/numba-blue-icon-rgb.svg" alt="numba"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda"/></code>
-<code><img height="32" src="https://images.icon-icons.com/2107/PNG/96/file_type_cuda_icon_130656.png" alt="nvidia-cuda"/></code>
+<code><img height="32" src="https://docs.nvidia.com/cuda/_static/Logo_and_CUDA.png" alt="nvidia-cuda"/></code>
 
 ### Web Development
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html"/></code>
