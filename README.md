@@ -16,6 +16,8 @@
 
 - 🔭 I’m currently studying at INATEL - Instituto Nacional de Telecomunicações
 - 🌱 Learning: Machine learning with python and docker, docker compose e docker swarm
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
+
 
 <div align="center">
   <a href="https://github.com/matheusAFONSECA">
