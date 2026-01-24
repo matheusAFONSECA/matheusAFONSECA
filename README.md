@@ -14,8 +14,8 @@
 
 <br>
 
-- 🔭 I’m currently studying at INATEL - Instituto Nacional de Telecomunicações
-- 🌱 Learning: Machine learning with python and docker, docker compose e docker swarm
+- 🔭 I’m Dev Machine Learning at INATEL - Instituto Nacional de Telecomunicações
+- 🌱 Learning: LLMs
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
 
@@ -97,6 +97,7 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" alt="cassandra"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="redis"/></code>
+<code><img height="32" src="https://qdrant.tech/img/qdrant-logo.svg" alt="qdrant"/></code>
 
 ### Frameworks
 <code><img height="32" src="https://mesop-dev.github.io/mesop/assets/logo.png" alt="mesop"/></code>
