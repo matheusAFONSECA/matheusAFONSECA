@@ -41,12 +41,12 @@
 <p align="center">
   <img
     src="https://wakatime.com/share/@matheusAFONSECA/4f58640b-2f5f-40de-a8d2-fce4b9b35c8d.svg"
-    width="500"
+    width="420"
     alt="WakaTime Coding Activity"
   />
   <img
     src="https://wakatime.com/share/@matheusAFONSECA/855c24ac-ffbb-4858-ab8c-ab05ea5ba528.svg"
-    width="500"
+    width="420"
     alt="WakaTime Languages"
   />
 </p>
