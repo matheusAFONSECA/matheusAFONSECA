@@ -31,11 +31,25 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=matheusAFONSECA&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&count_private=true" />
 
-  [![wakatime](https://wakatime.com/badge/user/84e43a2c-f370-46bf-9467-7b5e7a042c12.svg)](https://wakatime.com/@84e43a2c-f370-46bf-9467-7b5e7a042c12)
   
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusAFONSECA&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![wakatime](https://wakatime.com/badge/user/84e43a2c-f370-46bf-9467-7b5e7a042c12.svg)](https://wakatime.com/@84e43a2c-f370-46bf-9467-7b5e7a042c12)
+
+<p align="center">
+  <img
+    src="https://wakatime.com/share/@matheusAFONSECA/4f58640b-2f5f-40de-a8d2-fce4b9b35c8d.svg"
+    width="500"
+    alt="WakaTime Coding Activity"
+  />
+  <img
+    src="https://wakatime.com/share/@matheusAFONSECA/855c24ac-ffbb-4858-ab8c-ab05ea5ba528.svg"
+    width="500"
+    alt="WakaTime Languages"
+  />
+</p>
 
 ---
 
