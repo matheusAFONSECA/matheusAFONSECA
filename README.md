@@ -9,30 +9,31 @@
 <div align="center">
     <!-- Animated Typing SVG -->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E5DF7&center=true&width=435&lines=I'm+Matheus+Fonseca" alt="Typing SVG" /></a>
-    </a>
 </div>
 
 <br>
 
-- 🔭 I’m Dev Machine Learning at INATEL - Instituto Nacional de Telecomunicações
-- 🌱 Learning: LLMs
+- I’m Dev Machine Learning at INATEL - Instituto Nacional de Telecomunicações
+- Learning: LLMs, React and React Native
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> -->
 
 <div align="center">
   <a href="https://github.com/matheusAFONSECA">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusAFONSECA&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAFONSECA&layout=compact&theme=dracula&count_private=true"/>
-   <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=matheusAFONSECA&layout=compact&theme=dracula&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=matheusAFONSECA&theme=dracula&hide_border=false)"/>
-    
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=matheusAFONSECA&theme=dracula&hide_border=false)<br/>
+    <img height="180em"
+         src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusAFONSECA&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="180em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=matheusAFONSECA&theme=dracula&hide_border=false"/>
+  </a>
     
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheusAFONSECA&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&count_private=true" />
-
-  
-</p>
+<div align="center">
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusAFONSECA&layout=compact&theme=dracula" 
+    width="450"
+    alt="Most Used Languages"
+  />
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusAFONSECA&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
