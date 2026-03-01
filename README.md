@@ -19,9 +19,9 @@
 
 <div align="center">
   <a href="https://github.com/matheusAFONSECA">
-    <img height="180em"
+    <img height="150em"
          src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusAFONSECA&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180em"
+    <img height="150em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=matheusAFONSECA&theme=dracula&hide_border=false"/>
   </a>
     
@@ -30,7 +30,7 @@
 <div align="center">
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusAFONSECA&layout=compact&theme=dracula" 
-    width="450"
+    width="320"
     alt="Most Used Languages"
   />
 </div>
