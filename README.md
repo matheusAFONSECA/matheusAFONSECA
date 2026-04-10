@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="dracula.css">
 
+<img src="images/website-qr-code.png" align="right" width="120px" alt="QR Code"/>
+
 ![](https://komarev.com/ghpvc/?username=matheusAFONSECA&color=006bed)
 
 ## Wellcome!!!
