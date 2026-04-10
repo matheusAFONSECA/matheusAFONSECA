@@ -5,24 +5,9 @@
 ## Wellcome!!!
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  
-  <!-- Nome -->
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E5DF7&center=true&width=435&lines=I'm+Matheus+Fonseca" 
-      alt="Typing SVG"
-    />
-  </a>
-
-  <!-- QR Code -->
-  <img 
-    src="images/website-qr-code.png" 
-    width="100px" 
-    alt="QR Code"
-    align="right"
-  />
-
+<div align="center">
+    <!-- Animated Typing SVG -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E5DF7&center=true&width=435&lines=I'm+Matheus+Fonseca" alt="Typing SVG" /></a>
 </div>
 
 
