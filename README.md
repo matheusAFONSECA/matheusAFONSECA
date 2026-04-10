@@ -1,19 +1,30 @@
 <link rel="stylesheet" type="text/css" href="dracula.css">
 
-<img src="images/website-qr-code.png" align="right" width="120px" alt="QR Code"/>
-
 ![](https://komarev.com/ghpvc/?username=matheusAFONSECA&color=006bed)
 
 ## Wellcome!!!
 
-<br>
 
-<div align="center">
-    <!-- Animated Typing SVG -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E5DF7&center=true&width=435&lines=I'm+Matheus+Fonseca" alt="Typing SVG" /></a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  
+  <!-- Nome -->
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E5DF7&center=true&width=435&lines=I'm+Matheus+Fonseca" 
+      alt="Typing SVG"
+    />
+  </a>
+
+  <!-- QR Code -->
+  <img 
+    src="images/website-qr-code.png" 
+    width="100px" 
+    alt="QR Code"
+    align="right"
+  />
+
 </div>
 
-<br>
 
 - I’m Dev Machine Learning at INATEL - Instituto Nacional de Telecomunicações
 - Learning: LLMs, React and React Native
