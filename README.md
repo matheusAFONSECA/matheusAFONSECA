@@ -1,7 +1,5 @@
 <link rel="stylesheet" type="text/css" href="dracula.css">
 
-![](https://komarev.com/ghpvc/?username=matheusAFONSECA&color=006bed)
-
 ## Wellcome!!!
 
 
