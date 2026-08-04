@@ -41,11 +41,6 @@
     width="420"
     alt="WakaTime Coding Activity"
   />
-  <img
-    src="https://wakatime.com/share/@matheusAFONSECA/855c24ac-ffbb-4858-ab8c-ab05ea5ba528.svg"
-    width="420"
-    alt="WakaTime Languages"
-  />
 </p>
 
 ---
