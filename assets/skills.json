@@ -1,0 +1,13 @@
+{
+  "title": "AI & Engineering Skills",
+  "_comment": "Self-rated, 0-100. Edit these values and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Machine Learning",     "value": 92 },
+    { "label": "Computer Vision",      "value": 90 },
+    { "label": "Deep Learning",        "value": 87 },
+    { "label": "Backend / APIs",       "value": 84 },
+    { "label": "MLOps / DevOps",       "value": 78 },
+    { "label": "Data Engineering",     "value": 80 },
+    { "label": "Research Engineering", "value": 88 }
+  ]
+}

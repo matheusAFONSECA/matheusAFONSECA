@@ -1,0 +1,12 @@
+{
+  "title": "Language & Framework Stack",
+  "_comment": "Self-rated, 0-100. Edit these values and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Python",     "value": 95 },
+    { "label": "PyTorch",    "value": 91 },
+    { "label": "TensorFlow", "value": 84 },
+    { "label": "OpenCV",     "value": 90 },
+    { "label": "FastAPI",    "value": 86 },
+    { "label": "React",      "value": 76 }
+  ]
+}
