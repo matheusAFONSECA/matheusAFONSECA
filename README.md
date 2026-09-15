@@ -48,7 +48,30 @@ Hi, I'm **Matheus Fonseca**, an **ML Developer and Full-stack Developer** from B
 
 </div>
 
+<details>
+<summary><b>more tools I use</b></summary>
 
+<br/>
+
+**Programming:** Python · Java · JavaScript · C · C++ · Dart · Julia
+
+**Scientific Python:** NumPy · Pandas · SciPy · Matplotlib · Plotly · Joblib · Numba · Jupyter
+
+**Machine Learning:** PyTorch · TensorFlow · Scikit-learn · OpenCV · CUDA · Albumentations · Optuna
+
+**Web & APIs:** FastAPI · Flask · React · Node.js · Vite · Streamlit · Flet · Postman · Cypress · Jest · JSON · YAML · MQTT · Node-RED
+
+**DevOps & Cloud:** Docker · Docker Compose · Docker Swarm · Kubernetes · Jenkins · GitHub Actions · Git · GitHub · Bitbucket
+
+**Databases:** MySQL · MongoDB · Neo4j · Cassandra · Supabase · Redis · Qdrant
+
+**Development:** VS Code · PyCharm · IntelliJ IDEA · Android Studio · Arduino
+
+**Documentation & Management:** LaTeX · Markdown · Mermaid · Confluence · Canva · Notion · Jira · Trello
+
+**Systems & CLI:** Linux · Ubuntu · Raspberry Pi · Windows · Bash · PowerShell
+
+</details>
 
 ---
 
